@@ -6,7 +6,7 @@
     {
         if(empty($_POST['name']) || empty($_POST['ID']))
         {
-            echo ' Please Fill in the Blanks ';
+            echo ' Please Fill in  Blanks ';
         }
         else
         {
